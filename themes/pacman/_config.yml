@@ -57,8 +57,8 @@ fancybox: false
 #### Author information
 author:
   
-  intro_line1: ""  eg: "Hello ,I'm Larry Page in Google."
-  intro_line2: ""  eg: "This is my blog,believe it or not."
+  intro_line1: "Hello ,I'm Larry Page in Google."
+  intro_line2: "This is my blog,believe it or not."
   twitter:    https://twitter.com/
   tumbler:    https://www.tumblr.com/
   

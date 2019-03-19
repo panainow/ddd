@@ -81,4 +81,4 @@ deploy:
   type:
 
 sitemap:
-  path: sitemap.xm
+  path: sitemap.xml
